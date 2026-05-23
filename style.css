@@ -1,0 +1,17 @@
+p {
+    background-color: aqua;
+    color: white;
+}
+ul {
+    background-color: black;
+    color: white;
+}
+
+li {
+    background-color: brown;
+    color: white;
+}
+
+a {
+    font-size: 10px;
+}
